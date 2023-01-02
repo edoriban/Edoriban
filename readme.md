@@ -34,6 +34,5 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=edoriban&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoriban&hide=TeX&layout=compact)
 
