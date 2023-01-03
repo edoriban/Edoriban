@@ -1,4 +1,4 @@
-### Greetings mon! 
+<H1>Greetings mon!</H1>
 
 I am **[Edgar M. Olivan](https://github.com/edoriban)**, a **Software Engineer** based on Nuevo León working at [industrial code](https://www.insytech.com.mx). Having around 5+ years of experience in full-stack web development. 
 
@@ -32,6 +32,8 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+
 ## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoriban&hide=TeX&layout=compact)
