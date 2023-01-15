@@ -6,35 +6,40 @@ This is my GitHub profile where you can find some of my projects and contributio
 
 To see my profile in detail, I recommend to look at my LinkedIn profile.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoriban/) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=edoriban.visitor-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoriban/) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=edoriban.visitor-badge)
 
 
 ## Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?flat&logo=javascript&logoColor=black)&nbsp;
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?flat&logo=typescript&logoColor=white)&nbsp;
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?flat&logo=node.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?flat&logo=python&logoColor=white)&nbsp;
+![next](https://img.shields.io/badge/Next-000000?flat&logo=nextdotjs&logoColor=FFFFFF)&nbsp;
+![react](https://img.shields.io/badge/React-20232A?flat&logo=react&logoColor=61DAFB)&nbsp;
+![redux](https://img.shields.io/badge/Redux-593D88?flat&logo=redux&logoColor=white)\
+![react-router](https://img.shields.io/badge/React_Router-CA4245?flat&logo=react-router&logoColor=white)&nbsp;
+![material-ui](https://img.shields.io/badge/Material_UI-0081CB?flat&logo=mui&logoColor=white)&nbsp;
+![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?flat&logo=googlechrome&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?flat&logo=css3)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?flat&logo=mongodb&logoColor=white)\
+![Redis](https://img.shields.io/badge/-Redis-black?flat&logo=Redis)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?flat&logo=postgresql)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?flat&logo=amazon-aws)&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?flat&logo=github)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?flat&logo=c-sharp&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
 
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoriban&hide=TeX&layout=compact)
+<p align="center">
+<a href="https://github.com/edoriban">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edoriban&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edoriban&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
 
