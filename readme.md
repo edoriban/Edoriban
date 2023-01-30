@@ -10,7 +10,6 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoriban/) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=edoriban.visitor-badge)
 
-
 ## Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?flat&logo=javascript&logoColor=black)&nbsp;
