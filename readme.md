@@ -8,7 +8,7 @@ This is my GitHub profile where you can find some of my projects and contributio
 
 To see my profile in detail, I recommend to look at my LinkedIn profile.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoriban/) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=edoriban.visitor-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoriban/) 
 
 ## Skills
 
