@@ -1,6 +1,6 @@
 ![Edoriban](https://raw.githubusercontent.com/edoriban/edoriban/master/assets/banner.png)
 
-<!-- <H1>Greetings mon!</H1> -->
+<H1>Greetings mon!</H1>
 
 I am **[Edgar M. Olivan](https://github.com/edoriban)**, a **Software Engineer** based on Nuevo León working at [industrial code](https://www.industrial-code.com/). Having around 5+ years of experience in full-stack web development.
 
