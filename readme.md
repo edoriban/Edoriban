@@ -1,4 +1,3 @@
-![Edoriban](https://raw.githubusercontent.com/edoriban/edoriban/master/assets/banner.png)
 
 <H1>Greetings mon!</H1>
 
