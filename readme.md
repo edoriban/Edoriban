@@ -11,24 +11,53 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 ## Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?flat&logo=javascript&logoColor=black)&nbsp;
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?flat&logo=typescript&logoColor=white)&nbsp;
-![Astro](https://img.shields.io/badge/astro-orange?flat&logo=astro&logoColor=white)&nbsp;
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?flat&logo=node.js&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?flat&logo=python&logoColor=white)&nbsp;
-![next](https://img.shields.io/badge/Next-000000?flat&logo=nextdotjs&logoColor=FFFFFF)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?flat&logo=css3)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?flat&logo=mongodb&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?flat&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?flat&logo=javascript&logoColor=black)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-000000?flat&logo=rust&logoColor=white)&nbsp;
+
+**AI & Computer Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?flat&logo=pytorch&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?flat&logo=opencv&logoColor=white)&nbsp;
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?flat&logoColor=black)&nbsp;
+![ONNX](https://img.shields.io/badge/ONNX-005CED?flat&logo=onnx&logoColor=white)&nbsp;
+![CUDA](https://img.shields.io/badge/CUDA-76B900?flat&logo=nvidia&logoColor=white)&nbsp;
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?flat&logo=react&logoColor=61DAFB)&nbsp;
+![Next](https://img.shields.io/badge/Next-000000?flat&logo=nextdotjs&logoColor=FFFFFF)&nbsp;
+![Astro](https://img.shields.io/badge/Astro-BC52EE?flat&logo=astro&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?flat&logo=tailwindcss&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-3254CC?flat&logo=vite&logoColor=white)&nbsp;
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?flat&logo=tauri&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?flat&logo=react&logoColor=61DAFB)&nbsp;
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?flat&logo=fastapi&logoColor=white)&nbsp;
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?flat&logo=nodedotjs&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?flat&logo=postgresql&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?flat&logo=github)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?flat&logo=c-sharp&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-purple?flat)&nbsp;
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind-007ACC?flat&logo=tailwindcss&logoColor=white)&nbsp;
-![Vite](https://img.shields.io/badge/Vite-3254CC?flat&logo=Vite&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-DC382D?flat&logo=redis&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?flat&logo=prisma&logoColor=white)&nbsp;
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?flat&logo=drizzle&logoColor=black)&nbsp;
+
+**Industrial**
+
+![MQTT](https://img.shields.io/badge/MQTT-660066?flat&logo=mqtt&logoColor=white)&nbsp;
+![OPC-UA](https://img.shields.io/badge/OPC--UA-005A9C?flat&logoColor=white)&nbsp;
+![Modbus](https://img.shields.io/badge/Modbus-8A2BE2?flat&logoColor=white)&nbsp;
+
+**Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?flat&logo=docker&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-009639?flat&logo=nginx&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-F46800?flat&logo=grafana&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?flat&logo=github&logoColor=white)&nbsp;
 
 
 ![GitHub followers](https://img.shields.io/github/followers/edoriban)
