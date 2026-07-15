@@ -1,7 +1,7 @@
 
 <H1>Greetings mon!</H1>
 
-I am **[Edgar M. Olivan](https://github.com/edoriban)**, a **Software Engineer** based on Nuevo León working at [industrial code](https://www.industrial-code.com/). Having around 5+ years of experience in full-stack web development.
+I am **[Edgar M. Olivan](https://github.com/edoriban)**, a **Software Engineer** based on Nuevo León. Partner at [Insytech](https://www.insytech.mx/) and founder of [Vandev](https://vandev.mx/). Having around 5+ years of experience in full-stack web development.
 
 This is my GitHub profile where you can find some of my projects and contributions. If you have any questions or are interested in working together on a project, don't hesitate to reach out to me. I am eager to connect and collaborate with other developers!
 
@@ -18,7 +18,6 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?flat&logo=python&logoColor=white)&nbsp;
 ![next](https://img.shields.io/badge/Next-000000?flat&logo=nextdotjs&logoColor=FFFFFF)&nbsp;
-![react](https://img.shields.io/badge/React-20232A?flat&logo=react&logoColor=61DAFB)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?flat&logo=css3)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?flat&logo=mongodb&logoColor=white)&nbsp;
@@ -29,7 +28,7 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 ![.NET](https://img.shields.io/badge/.NET-purple?flat)&nbsp;
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind-007ACC?flat&logo=tailwindcss&logoColor=white)&nbsp;
-![Starlight](https://img.shields.io/badge/Vite-3254CC?flat&logo=Vite&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-3254CC?flat&logo=Vite&logoColor=white)&nbsp;
 
 
 ![GitHub followers](https://img.shields.io/github/followers/edoriban)
