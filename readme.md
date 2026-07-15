@@ -49,7 +49,6 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 ![MQTT](https://img.shields.io/badge/MQTT-660066?flat&logo=mqtt&logoColor=white)&nbsp;
 ![OPC-UA](https://img.shields.io/badge/OPC--UA-005A9C?flat&logoColor=white)&nbsp;
-![Modbus](https://img.shields.io/badge/Modbus-8A2BE2?flat&logoColor=white)&nbsp;
 
 **Infra**
 
